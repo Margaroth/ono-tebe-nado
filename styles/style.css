@@ -63,7 +63,7 @@ html {
 }
 
 .cover_overlay {
-    position: relative;  
+    position: relative;
     width: 1082px;
     height: 725px;
 }
@@ -99,7 +99,7 @@ h1 {
     font-size: 100px;
     font-style: normal;
     font-weight: 700;
-    line-height: 115%; 
+    line-height: 115%;
     text-transform: uppercase;
     z-index: 2;
     padding: 162px 49px 131px 47px;
@@ -114,7 +114,7 @@ h1 {
 }
 
 .word_two {
-    align-self: center; 
+    align-self: center;
 }
 
 .teb {
